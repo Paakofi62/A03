@@ -1,5 +1,6 @@
 # A03
-How to use Git and Github:
+
+Task:How to use Git and Github
 First you need to download git and create a github accounts.
 
 In Github, you need to create an account. 
