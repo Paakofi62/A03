@@ -2,7 +2,7 @@
 How to use Git and Github:
 First you need to download git and create a github accounts.
 
-Then in Github, you need to create an account. 
+In Github, you need to create an account. 
 
 Github is a place where you store projects(code) and work with others on your projects or a group project.
 
