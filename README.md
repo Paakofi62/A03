@@ -1,6 +1,24 @@
 # A03
+How to use Git and Github:
+First you need to download git and create a github accounts.
 
+Then in Github, you need to create an account. 
 
+Github is a place where you store projects(code) and work with others on your projects or a group project.
+
+The most important thing to know in github is a repository, it is where your code is stored and can be shared with others.
+
+On the top left corner of the github, there is a Repositories with a small green box that says new.
+
+That is where you click on new and create a repository.
+
+You can code and type your projects in there but to save the changes you must click commit changes at the bottom of the page.
+
+Pull request makes you download other repositories into your account and merge allows you to add different code to your projects.
+
+One important thing to note is when you commit a change, there are two options available. One is commit directly to the master branch and one is create a new branch.
+
+Usually you click commit to the master branch when you are working on your projects but when it is a group project and you are not the head of the group then you create a new branch for you line of code. 
 
 
 Git:is a vcs(version control system) that is used to keep track of changes in source code.
