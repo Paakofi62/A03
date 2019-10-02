@@ -1,7 +1,15 @@
 # A03
 
-Task:How to use Git and Github
-First you need to download git and create a github accounts.
+how to use Git and Github
+
+First you need to download git and create a github account.
+
+To create a local repository in git, you need to type $ git init
+
+Every basic command in git starts with the code line $ git + the code. Examples:$ git add <file>(to add files to the index), $ git status( to check the status of the working tree), $ git commit(to commit changes in index).
+  
+To add html in git, you need to type $ git add index.html(this is how to add different languages in git
+Git and github share alot of the same commands
 
 In Github, you need to create an account. 
 
